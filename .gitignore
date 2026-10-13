@@ -5,3 +5,4 @@ __pycache__/
 .ruff_cache/
 .mypy_cache/
 # reports/ is part of the submission (scoreboard.json, REPORT.md, figures, time-series CSVs) — keep it tracked
+docs/checkpoints/
